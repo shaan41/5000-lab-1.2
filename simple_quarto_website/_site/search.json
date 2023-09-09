@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Watching Sports\nTraveling\nWorking out\n\n\n\n\n\n\nCooking\nGoing to nature areas\nLearn more about AI and MLOps in the future\n\n\n\n\nShows I have watched\nLevel of enjoyment\n\n\n\n\nGame of Thrones\nMedium\n\n\nThe Boys\nHigh\n\n\nNarcos\nMedium\n\n\n\n\n\n\n$ e = mc^2 $\n\n\n\n\\[\n{n \\choose k } = n!/k!(n-k)!\n\\]\nLearn more about my definiton of a data scientist here1\n\n\n\n\n\n\n“The ability to use IBEX in its native format and with the Opal-plex variation is especially valuable in the context of the current COVID-19 pandemic. Preliminary data show that these methods work well with highly fixed postmortem samples from such patients”\n\n[Image of cell and tissue biology][images/Cells.png]\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Cell] --&gt; B(Tissue)\n  B --&gt; C{Organ}\n  C --&gt; D[OrganSystem]\n\n\n\n\n\nYou can read more about these studies of cells in the article (Radtke et al. 2020)\n\n\n\n“Unlike security prices, where uncertainty regarding the full information or fundamental value makes comparison with the actual security price difficult, the outcome of a sporting event is known, allowing a comparison with the expected outcome, or betting line, to be easily made”\n\n[Image of a sport bets parlay made][images/sports.png]\n\n\n\n\n\nYou can read more about the studies of how they determined traveling affected sports betting here (Nichols 2014)"
+  },
+  {
+    "objectID": "index.html#hobbies",
+    "href": "index.html#hobbies",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Watching Sports\nTraveling\nWorking out"
+  },
+  {
+    "objectID": "index.html#recent-activities-i-am-interested-to-do-more",
+    "href": "index.html#recent-activities-i-am-interested-to-do-more",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Cooking\nGoing to nature areas\nLearn more about AI and MLOps in the future\n\n\n\n\nShows I have watched\nLevel of enjoyment\n\n\n\n\nGame of Thrones\nMedium\n\n\nThe Boys\nHigh\n\n\nNarcos\nMedium"
+  },
+  {
+    "objectID": "index.html#one-inline-math-latex-equation-example",
+    "href": "index.html#one-inline-math-latex-equation-example",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "$ e = mc^2 $"
+  },
+  {
+    "objectID": "index.html#one-noniline-math-latex-equation",
+    "href": "index.html#one-noniline-math-latex-equation",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "\\[\n{n \\choose k } = n!/k!(n-k)!\n\\]\nLearn more about my definiton of a data scientist here1"
+  },
+  {
+    "objectID": "index.html#qoutes-from-each-reference-that-stood-out",
+    "href": "index.html#qoutes-from-each-reference-that-stood-out",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "“The ability to use IBEX in its native format and with the Opal-plex variation is especially valuable in the context of the current COVID-19 pandemic. Preliminary data show that these methods work well with highly fixed postmortem samples from such patients”\n\n[Image of cell and tissue biology][images/Cells.png]"
+  },
+  {
+    "objectID": "index.html#mermaid-diagram-as-to-how-the-cell-and-tissues-work-and-where-they-go-towards",
+    "href": "index.html#mermaid-diagram-as-to-how-the-cell-and-tissues-work-and-where-they-go-towards",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "flowchart LR\n  A[Cell] --&gt; B(Tissue)\n  B --&gt; C{Organ}\n  C --&gt; D[OrganSystem]\n\n\n\n\n\nYou can read more about these studies of cells in the article (Radtke et al. 2020)\n\n\n\n“Unlike security prices, where uncertainty regarding the full information or fundamental value makes comparison with the actual security price difficult, the outcome of a sporting event is known, allowing a comparison with the expected outcome, or betting line, to be easily made”\n\n[Image of a sport bets parlay made][images/sports.png]"
+  },
+  {
+    "objectID": "index.html#embedded-video-on-how-sports-betting-is-changing-over-the-years",
+    "href": "index.html#embedded-video-on-how-sports-betting-is-changing-over-the-years",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "You can read more about the studies of how they determined traveling affected sports betting here (Nichols 2014)"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nMy definition of a data scientist is that someone who goes in and collects/clean data and help provide a visualization for the client and provide an in depth analysis of what’s going on with their data and analysis on how to improve on these results. I think providing that analysis to the customer is most important as that determines what they need to do and what cost measures they have to accomplish.↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#what-it-can-lead-too",
+    "href": "slides/slides.html#what-it-can-lead-too",
+    "title": "Some values that Data Science can lead too",
+    "section": "What it can lead too",
+    "text": "What it can lead too\n\nCan lead into advancments of AI/MLops\nCan help create many simulations with data and probability of events occuring"
+  },
+  {
+    "objectID": "slides/slides.html#an-example-of-this-would-be",
+    "href": "slides/slides.html#an-example-of-this-would-be",
+    "title": "Some values that Data Science can lead too",
+    "section": "An example of this would be",
+    "text": "An example of this would be\n\nSports Betting"
+  },
+  {
+    "objectID": "slides/slides.html#the-results-of-this-example",
+    "href": "slides/slides.html#the-results-of-this-example",
+    "title": "Some values that Data Science can lead too",
+    "section": "The results of this example",
+    "text": "The results of this example\n\nPeople would be able to use AI or run simulations to see who they should bet on to increase their chances on winning.\nIt would result in more people attempting to gamble and the companies who make these probability machines such as AWS will benefit from it. Thus the studies of Data science using analytics and data will continue to develop the AI model not just for Betting but everything in the world as well.\n\n1\nBetting will increase like how this line graph is! Every year more people will begin doing it more and set new records.\nMore on this topic about Sports betting can be checked with this article [@nichols2014impact]\n#| echo: true\n\nimport matplotlib.pyplot as plt\nx = [3,4,7,8,12] \ny = [2,7,8,10,15] \n\nplt.plot(x,y)\nplt.xlabel('x-axis')\nplt.ylabel('y-axis')\nplt.show()"
+  }
+]

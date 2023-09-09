@@ -1,0 +1,74 @@
+---
+title: "simple_quarto_website"
+bibliography: reference.bib
+format:
+    html:
+        toc: true
+        toc-depth: 2
+---
+
+# Introduction: My hobbies and interests 
+
+## Hobbies 
+
+### Main Hobbiess 
+
+- Watching Sports 
+- Traveling 
+- Working out 
+
+## Recent activities I am interested to do more 
+
+- Cooking
+- Going to nature areas 
+- Learn more about AI and MLOps in the future
+
+
+| Shows I have watched| Level of enjoyment | 
+|---------|-----|
+| Game of Thrones| Medium|  
+| The Boys| High|   
+| Narcos | Medium |
+
+## One inline-math LaTex equation example
+$ e = mc^2 $
+
+## One noniline-math LaTex Equation 
+
+$$
+{n \choose k } = n!/k!(n-k)! 
+$$
+
+Learn more about my definiton of a data scientist here[^1]
+
+[^1]: My definition of a data scientist is that someone who goes in and collects/clean data and help provide a visualization for the client and provide an in depth analysis of what's going on with their data and analysis on how to improve on these results. I think providing that analysis to the customer is most important as that determines what they need to do and what cost measures they have to accomplish. 
+
+## Qoutes from each reference that stood out
+### Reference 1: BEX: A versatile multiplex optical imaging approach for deep phenotyping and spatial analysis of cells in complex tissues
+> "The ability to use IBEX in its native format and with the Opal-plex variation is especially valuable in the context of the current COVID-19 pandemic. Preliminary data show that these methods work well with highly fixed postmortem samples from such patients"
+
+![Image of cell and tissue biology][images/Cells.png]
+
+## Mermaid diagram as to how the cell and tissues work and where they go towards
+```{mermaid}
+flowchart LR
+  A[Cell] --> B(Tissue)
+  B --> C{Organ}
+  C --> D[OrganSystem]
+```
+
+You can read more about these studies of cells in the article [@Radtke2020-hd]
+
+### Reference 2: The Impact of Visiting Team Travel on Game Outcome and Biases in NFL Betting Markets
+> "Unlike security prices, where uncertainty regarding the full information or fundamental value makes comparison with the actual security price difficult, the outcome of a sporting event is known, allowing a comparison with the expected outcome, or betting line, to be easily made"
+
+![Image of a sport bets parlay made][images/sports.png]
+
+
+## Embedded Video on how sports betting is changing over the years
+
+{{< video https://www.youtube.com/watch?v=jM8YdNj1-hk >}}
+
+You can read more about the studies of how they determined traveling affected sports betting here [@nichols2014impact]
+
+
